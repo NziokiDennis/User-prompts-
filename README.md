@@ -1,2 +1,3 @@
 # User-prompts-
-User prompts 
+
+window.alert(message)
